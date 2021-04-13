@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: blue;
+}
+h1{
+    font-family: fantasy;
+    color: darkblue;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
